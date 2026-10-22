@@ -19,4 +19,3 @@ public class SiakadFor09 {
         System.out.println("Nilai terendah :"+terendah);
     }
 }
-// 
